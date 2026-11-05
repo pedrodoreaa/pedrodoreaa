@@ -8,7 +8,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 - 📫 Contato: pedrodoreaaa@gmail.com
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do Pedro" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodoreaa&theme=radical&hide_border=true" alt="Estatísticas do Pedro" />
 </div>
 
 ## Tecnologias
