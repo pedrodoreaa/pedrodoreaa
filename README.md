@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # Oi, eu sou o Pedro Dórea 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado em **backend com Python** e **automação com IA**.
@@ -6,11 +8,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 - ⚙️ Automação: [Delivery AI Triage](https://github.com/pedrodoreaa/delivery-ai-triage), fluxo no Make com classificação de feedbacks por LLM
 - 🌱 Aprendendo: testes automatizados (pytest), APIs REST e Java
 - 📫 Contato: pedrodoreaaa@gmail.com
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoreaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## Tecnologias
 
