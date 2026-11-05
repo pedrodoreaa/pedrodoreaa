@@ -8,8 +8,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 - 📫 Contato: pedrodoreaaa@gmail.com
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodoreaa&theme=radical" alt="Sequência de Commits" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodoreaa&theme=radical" alt="Sequência de Commits" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedrodoreaa&layout=compact&theme=radical" alt="Linguagens mais usadas" width="49%" />
 </p>
 
 ## Tecnologias
