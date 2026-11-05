@@ -7,8 +7,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 - 🌱 Aprendendo: testes automatizados (pytest), APIs REST e Java
 - 📫 Contato: pedrodoreaaa@gmail.com
 
-![Estatísticas do GitHub de Pedro](https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Linguagens mais usadas por Pedro](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoreaa&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Pedro" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoreaa&layout=compact&theme=radical" alt="Linguagens mais usadas por Pedro" width="49%" />
+</p>
 
 ## Tecnologias
 
