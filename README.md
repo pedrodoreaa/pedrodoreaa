@@ -9,7 +9,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrodoreaa&theme=radical" alt="Sequência de Commits" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pedrodoreaa&layout=compact&theme=radical" alt="Linguagens mais usadas" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrodoreaa&theme=radical&no-frame=true&margin-w=4" alt="Conquistas no GitHub" width="49%" />
 </p>
 
 ## Tecnologias
