@@ -9,6 +9,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 - 🌱 Aprendendo: testes automatizados (pytest), APIs REST e Java
 - 📫 Contato: pedrodoreaaa@gmail.com
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoreaa&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 ## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,5 +33,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 
 ## Contato
 
+[![YouTube](https://img.shields.io/badge/Pedro_Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWs3EOuUekcqniG7ccnDyaA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrodorea)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrodoreaaa@gmail.com)
