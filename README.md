@@ -1,5 +1,3 @@
-![Banner](banner.svg)
-
 # Oi, eu sou o Pedro Dórea 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado em **backend com Python** e **automação com IA**.
@@ -9,10 +7,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre), focado e
 - 🌱 Aprendendo: testes automatizados (pytest), APIs REST e Java
 - 📫 Contato: pedrodoreaaa@gmail.com
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoreaa&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrodoreaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodoreaa&layout=compact&theme=radical" alt="Linguagens mais usadas por Pedro" height="150" />
+</div>
 
 ## Tecnologias
 
